@@ -1,4 +1,4 @@
-### Welcome to my Projects. . 🪨📄✂️ Stone Paper Scissors
+### Welcome to my Projects 🪨📄✂️ Stone Paper Scissors
 - **Description**: A simple game where the user plays against the computer. Built using basic JavaScript logic and DOM manipulation.
 - **Features**:
   - Player vs Computer mode
