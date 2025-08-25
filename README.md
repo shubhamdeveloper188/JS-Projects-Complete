@@ -38,3 +38,20 @@ A collection of JavaScript projects I created during my learning journey. Each p
 - **Source Code**: [`Tic Tac Toe`](./TicTacToe)
 
 ---
+
+## 📌 About
+
+These projects were created during my JavaScript learning phase. They cover:
+
+- **DOM Manipulation**
+- **Event Handling**
+- **API Fetch**
+- **Game Logic**
+
+---
+
+## 🔗 Connect with Me
+
+- **GitHub**: [https://github.com/shubhamdeveloper188](https://github.com/shubhamdeveloper188)
+- **LinkedIn**: [https://www.linkedin.com/in/shubhamkrguptaa/](https://www.linkedin.com/in/shubhamkrguptaa/)
+
