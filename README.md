@@ -12,8 +12,7 @@ A collection of JavaScript projects I created during my learning journey. Each p
   - Player vs Computer mode
   - Score tracking
   - Responsive UI
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Live Demo**: *[Add your GitHub Pages link here]*  
+- **Tech Stack**: HTML, CSS, JavaScript  
 - **Source Code**: [`Stone, Paper & Scissors`](./Stone%2C%20Paper%20%26%20Scissors)
 
 ---
@@ -25,7 +24,6 @@ A collection of JavaScript projects I created during my learning journey. Each p
   - Real-time API integration
   - Simple and clean UI
 - **Tech Stack**: HTML, CSS, JavaScript, API (Exchange Rate)
-- **Live Demo**: *[Add your GitHub Pages link here]*  
 - **Source Code**: [`Currency Converter`](./Currency%20Converter)
 
 ---
@@ -37,7 +35,6 @@ A collection of JavaScript projects I created during my learning journey. Each p
   - Game reset option
   - Winning logic implemented
 - **Tech Stack**: HTML, CSS, JavaScript
-- **Live Demo**: *[Add your GitHub Pages link here]*  
 - **Source Code**: [`Tic Tac Toe`](./TicTacToe)
 
 ---
