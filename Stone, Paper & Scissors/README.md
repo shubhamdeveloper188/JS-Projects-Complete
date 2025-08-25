@@ -5,5 +5,4 @@
   - Score tracking
   - Responsive UI
 - **Tech Stack**: HTML, CSS, JavaScript
-- **Live Demo**: *[Add your GitHub Pages link here]*  
 - **Source Code**: [`Stone, Paper & Scissors`](./Stone%2C%20Paper%20%26%20Scissors)
