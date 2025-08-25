@@ -1,4 +1,4 @@
-### Welcome to my Projects. 💱 Currency Converter
+### Welcome to my Project 💱 Currency Converter
 - **Description**: A currency converter app using real-time exchange rates fetched from an API.
 - **Features**:
   - Convert between multiple currencies
