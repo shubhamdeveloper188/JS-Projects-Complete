@@ -17,7 +17,18 @@ A collection of JavaScript projects I created during my learning journey. Each p
 
 ---
 
-### 2. 💱 Currency Converter
+### 2. 🌙 DarkMode101
+- **Description**: A simple light/dark theme toggle project to practice DOM manipulation and CSS class switching.  
+- **Features**:
+  - Toggle between **Light Mode ☀️** and **Dark Mode 🌑**
+  - Uses `classList.add/remove` for styling
+  - Beginner-friendly implementation
+- **Tech Stack**: HTML, CSS, JavaScript  
+- **Source Code**: [`DarkMode101`](./DarkMode101)
+
+---
+
+### 3. 💱 Currency Converter
 - **Description**: A currency converter app using real-time exchange rates fetched from an API.
 - **Features**:
   - Convert between multiple currencies
@@ -28,7 +39,7 @@ A collection of JavaScript projects I created during my learning journey. Each p
 
 ---
 
-### 3. ❌⭕ Tic Tac Toe
+### 4. ❌⭕ Tic Tac Toe
 - **Description**: A two-player Tic Tac Toe game with a clean interface.
 - **Features**:
   - Two-player mode
