@@ -5,4 +5,3 @@
   - Uses `classList.add/remove` for styling
   - Beginner-friendly implementation
 - **Tech Stack**: HTML, CSS, JavaScript  
-- **Source Code**: [`DarkMode101`](./DarkMode101)
